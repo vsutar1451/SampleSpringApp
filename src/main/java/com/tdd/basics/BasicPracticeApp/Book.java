@@ -8,6 +8,8 @@ public class Book {
 	
 	private String author;
 	
+	private Integer noOfPages;
+	
 
 	public String getAuthor() {
 		return author;
